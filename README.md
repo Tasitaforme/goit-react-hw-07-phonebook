@@ -16,7 +16,7 @@
 ### Бекенд
 Створи свій персональний бекенд для розробки за допомогою UI-сервісу [**mockapi.io.**](https://mockapi.io/) Зареєструйся використовуючи свій обліковий запис GitHub. Створи ресурс `contacts` щоб отримати endpoint `/contacts`. Використай конструктор ресурсу та опиши об'єкт контакту як на ілюстрації.
 
-<img src="./api.png" alt="Mockapi api" width="450" style="display:block; margin:0 auto; text-align: center;" />
+<img src="./api.png" alt="Mockapi api" width="450" style="display:block; margin:0;" />
 
 ### Форма стану
 Додай у стан Redux обробку індикатора завантаження та помилки. Для цього зміни форму стану.
